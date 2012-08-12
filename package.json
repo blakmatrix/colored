@@ -1,0 +1,33 @@
+{
+  "name": "colored",
+  "version": "0.0.15",
+  "description": "colorizes streams/files",
+  "main": "colored.js",
+  "scripts": {
+    "test": "exit 0;",
+    "start": "node colored.js"
+  },
+  "bin": {
+    "colored": "./bin/colored.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:blakmatrix/colored"
+  },
+  "keywords": [
+    "colorize",
+    "color",
+    "streams",
+    "files",
+    "logs",
+    "automatic"
+  ],
+  "author": "Farrin Reid",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "0.6.x",
+    "event-stream": "2.2.x",
+    "xregexp": "2.0.x",
+    "nconf": "0.6.x"
+  }
+}

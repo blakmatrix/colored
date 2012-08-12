@@ -1,0 +1,21 @@
+{
+  "bad" : [
+    "warn", "restart", "exit", "stop", "end", "shutting", "down", "close",
+    "unreach", "can't", "cannot", "skip", "deny", "disable", "ignored",
+    "miss", "oops", "not", "backdoor", "blocking", "ignoring",
+    "unable", "readonly", "offline", "terminate", "empty", "virus"
+  ],
+  "good" : [
+    "activ", "start", "ready", "online", "load", "ok", "register", "detected",
+    "configured", "enable", "listen", "open", "complete", "attempt", "done",
+    "check", "listen", "connect", "finish", "clean", "true"
+  ],
+  "error" : [
+    "error", "crit", "invalid", "fail", "false", "alarm", "fatal"
+  ],
+  "system" : [
+    "ext2-fs", "reiserfs", "vfs", "iso", "isofs", "cslip", "ppp", "bsd",
+    "linux", "tcp/ip", "mtrr", "pci", "isa", "scsi", "ide", "atapi",
+    "bios", "cpu", "fpu", "discharging", "resume"
+  ]
+}
