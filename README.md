@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/blakmatrix/colored.png)](http://travis-ci.org/blakmatrix/colored)
 # Colored
 
 A CLI tool to colorize logs in the terminal and a library to colorize streams(TODO) 
