@@ -2,7 +2,8 @@
 # Colored
 
 A CLI tool to colorize logs in the terminal and a library to colorize streams(TODO)
-Colored is faster alternative to CCZE if you use node.js
+
+Colored is a faster alternative to CCZE if you use node.js
 
 Install with:
 
